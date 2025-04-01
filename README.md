@@ -23,6 +23,6 @@
       aling-items: center;
       justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=JowisG&show_icons=true&theme=highcontrast" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowisG&layout=donut"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowisG&layout=donut&theme=highcontrast"/>
   </div>
 </html>
