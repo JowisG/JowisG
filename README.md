@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**JowisG/JowisG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <h1 align="center">Hi I'm Jowis Good</h1>
+  <p>I am currently studing Software Engineer. And learning programming languages and other things such as:</p>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>C/C++</li>
+    <li>Java</li>
+    <li>Python</li>
+  </ul>
+  <p>Apps I use to learn and develop:</p>
+  <ul>
+    <li>VSCode</li>
+    <li>VSCommunity</li>
+    <li>Eclipse (for Java)</li>
+    <li>MySQL</li>
+    <li>Laragon</li>
+  </ul>
+  <h2>GitHub Stats</h2>
+  <div style="
+      display:flex;
+      aling-items: center;
+      justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JowisG&show_icons=true&theme=highcontrast" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowisG&layout=donut"/>
+  </div>
+</html>
